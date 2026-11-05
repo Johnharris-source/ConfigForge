@@ -1,0 +1,6 @@
+[general]
+enabled = false
+name = "ConfigForge67"
+ports = [80, 6060, 6789, 678, 123]
+names = ["HTTP", "HTTPS", "SSH"]
+flags = [false, true, false, true]

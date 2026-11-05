@@ -1,0 +1,7 @@
+[general]
+enabled = true
+name = "длдо"
+version = 1
+[graphics]
+fullscreen = false
+vsync = true
